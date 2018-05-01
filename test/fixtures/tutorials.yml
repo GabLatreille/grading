@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 1
+  max_counted: 1
+  total_weight: 1
+  individual_weight: 1
+  lesson: one
+
+two:
+  amount: 1
+  max_counted: 1
+  total_weight: 1
+  individual_weight: 1
+  lesson: two
